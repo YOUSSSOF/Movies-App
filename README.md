@@ -1,4 +1,4 @@
-# movies_app
+# Movies App
 
 A Full-featured movies app built with help of flutter and TMDB api :)
 
@@ -6,7 +6,10 @@ Design source: https://www.figma.com/file/T6Xewwh7oZQ9jlPgdsX3MM/Movies-app-(Com
 
 
 # Preview:
-![msg1129145429-41521](https://user-images.githubusercontent.com/93007857/184503266-09ed2573-32fb-4a5b-a128-da716b52f19a.jpg) ![msg1129145429-41519](https://user-images.githubusercontent.com/93007857/184503270-f6129a80-056d-4216-a53b-3d5b3e492caa.jpg) [msg112914542941520(https://userimages.githubusercontent.com/93007857/184503273-be7d32a7-5ed8-4c6c-b02d-68c4f5506726.jpg)
+
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/93007857/184504112-c2192308-7b29-4cf5-a24b-ad4da03509a8.gif)
+![ezgif com-gif-maker (1) (1)](https://user-images.githubusercontent.com/93007857/184504056-fc8e7059-e2ff-44c5-ad5d-047fc6c65bcf.gif)
+
 
 # Screen shots:
 
