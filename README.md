@@ -6,7 +6,7 @@ Design source: https://www.figma.com/file/T6Xewwh7oZQ9jlPgdsX3MM/Movies-app-(Com
 
 
 # Preview:
-![msg1129145429-41521](https://user-images.githubusercontent.com/93007857/184503266-09ed2573-32fb-4a5b-a128-da716b52f19a.jpg) ![msg1129145429-41519](https://user-images.githubusercontent.com/93007857/184503270-f6129a80-056d-4216-a53b-3d5b3e492caa.jpg) ![msg1129145429-41520](https://user-images.githubusercontent.com/93007857/184503273-be7d32a7-5ed8-4c6c-b02d-68c4f5506726.jpg)
+![msg1129145429-41521](https://user-images.githubusercontent.com/93007857/184503266-09ed2573-32fb-4a5b-a128-da716b52f19a.jpg) ![msg1129145429-41519](https://user-images.githubusercontent.com/93007857/184503270-f6129a80-056d-4216-a53b-3d5b3e492caa.jpg) [msg112914542941520(https://userimages.githubusercontent.com/93007857/184503273-be7d32a7-5ed8-4c6c-b02d-68c4f5506726.jpg)
 
 # Screen shots:
 
