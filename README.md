@@ -27,7 +27,6 @@ first you should register an account in tmdb website and get an apikey. then rep
 - clone the repo
 - flutter pub get
 - flutter run
-
 ```
 
 enjoy!
