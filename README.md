@@ -6,8 +6,14 @@ A Full-featured movies built with help of flutter and TMDB api :)
 
 
 # Screen shots:
+![Screenshot_20220813_165638_com example movies_app_40](https://user-images.githubusercontent.com/93007857/184495976-536a05af-c073-4e7c-a7b0-13065555bf9e.jpg)![Screenshot_20220813_170407_com example movies_app_40](https://user-images.githubusercontent.com/93007857/184496013-c3544b97-285c-46b8-a1be-bc58eea1d873.jpg)
 
-![PicsArt_08-13-05 33 34](https://user-images.githubusercontent.com/93007857/184495633-b6145408-26a0-4ee3-92df-126ff66da745.jpg)![PicsArt_08-13-05 33 09](https://user-images.githubusercontent.com/93007857/184495637-e4995e14-472f-4198-ba35-699606e5bfe9.jpg)![PicsArt_08-13-05 32 09](https://user-images.githubusercontent.com/93007857/184495640-6b865692-3d40-4c34-853e-683534931faf.jpg)![PicsArt_08-13-05 32 46](https://user-images.githubusercontent.com/93007857/184495644-9359a1dc-6fff-415c-b865-35d40676de56.jpg)
 
+## Features:
+
+Instalation:
+
+```
+```
 
 
