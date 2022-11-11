@@ -2,8 +2,6 @@
 
 A Full-featured movies app built with help of flutter and TMDB api :)
 
-Design source: https://www.figma.com/file/T6Xewwh7oZQ9jlPgdsX3MM/Movies-app-(Community)
-
 
 # Preview:
 
@@ -34,4 +32,4 @@ first you should register an account in tmdb website and get an apikey. then rep
 
 enjoy!
 
-
+Design source: https://www.figma.com/file/T6Xewwh7oZQ9jlPgdsX3MM/Movies-app-(Community)
