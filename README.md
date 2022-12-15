@@ -20,7 +20,7 @@ A Full-featured movies app built with help of flutter and TMDB api :)
 - get movies details, reviews and etc.
 
 
-## Instalation:
+## Installation:
 
 first you should register an account in tmdb website and get an apikey. then replace it in code.
 
