@@ -43,7 +43,7 @@ class ApiService {
     List<Movie> movies = [];
     try {
       http.Response response = await http.get(Uri.parse(
-          'https://api.themoviedb.org/3/search/movie?api_key=40797ff2c89935778fc86188943b775a&language=en-US&query=$query&page=1&include_adult=false'));
+          'https://api.themoviedb.org/3/search/movie?api_key=YourApiKey&language=en-US&query=$query&page=1&include_adult=false'));
       var res = jsonDecode(response.body);
       res['results'].forEach(
         (m) => movies.add(
